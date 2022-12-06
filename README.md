@@ -1,4 +1,4 @@
-# lab05
+# Saída do Main
 ```
 --> A Grande Família - O Filme
 - Trilha sonora: A Grande Família
